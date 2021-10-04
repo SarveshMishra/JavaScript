@@ -1,4 +1,4 @@
-//Program for selection Sort Algorithm.
+//Program for bubble Sort Algorithm.
 
     
 
